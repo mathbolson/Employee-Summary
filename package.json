@@ -1,0 +1,25 @@
+{
+  "name": "employee-summary",
+  "version": "1.0.0",
+  "description": "A webpage that displays a team's basic info for quick access to emails and GitHub profiles",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathbolson/Employee-Summary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathbolson/Employee-Summary/issues"
+  },
+  "homepage": "https://github.com/mathbolson/Employee-Summary#readme",
+  "dependencies": {
+    "inquire": "^0.4.8"
+  }
+}
