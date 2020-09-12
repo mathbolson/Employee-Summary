@@ -31,6 +31,7 @@
   Open the Employee-Summary in your command shell. Run "node app" Answer all the questions prompt. When the application finises running you can acess the new generated team.html file in the Output folder.
 
 [![youtubevideo](https://img.youtube.com/vi/Gp32dfmQzec/0.jpg)](https://www.youtube.com/watch?v=Gp32dfmQzec)
+[Link to video and see how the application works! ](https://youtu.be/Gp32dfmQzec)
 
 
   ## license:
