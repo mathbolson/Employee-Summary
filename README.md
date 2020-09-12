@@ -24,8 +24,16 @@
 
   ## Installation:
   Download the .zip file from this directory. Open the unzipped folde in your command shell. Node.js and npm inquirer will be needed before starting the application.To do so, enter "npm install" to instal the dependent packages.
+
+
+
   ## Usage:
   Open the Employee-Summary in your command shell. Run "node app" Answer all the questions prompt. When the application finises running you can acess the new generated team.html file in the Output folder.
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Gp32dfmQzec" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
   ## license:
   MIT_License
   
